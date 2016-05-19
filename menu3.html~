@@ -1,0 +1,31 @@
+<DOCTYPE HTML>
+
+<html>
+<head>
+<title>Menu 3</title>
+<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+</head>
+<body style="background-color: white">
+<h1 style="color:black; margin-left:30px; text-align: center;">Menu 3 star</h1><br>
+<p style="color:black; text-align: center;">Soupe de moules et fleur de thym<br>
+#####<br>
+Diamants de sole poeles meuniere au meli-melo de jeaunes feves, beurre moussant<br>
+#####<br>
+Cote de veau voile au parmesan et parfum de sage<br>
+####<br>
+Crepe soufflé grand marnier
+
+
+
+
+
+
+
+</p>
+</body>
+</html>

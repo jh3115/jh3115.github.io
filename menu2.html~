@@ -23,7 +23,7 @@ p {
 
 </head>
 <body style="background-color: white">
-<h1>Menu 2 star</h1>
+<h1>Menu 2 star</h1><br>
 <h2>Entree</h2>
 <p style="color:black; text-align: center;">Terrine of rouge et brandade de morue ala esacabeche</p>
 <h2>Principal</h2>
